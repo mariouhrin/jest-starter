@@ -1,0 +1,8 @@
+{
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": ["javascript", "typescript"],
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "workbench.settings.useSplitJSON": true,
+  "workbench.settings.editor": "json"
+}

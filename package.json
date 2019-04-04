@@ -1,0 +1,27 @@
+{
+  "name": "jest-starter",
+  "version": "1.0.0",
+  "description": "jest starter repo",
+  "author": "Mario Uhrin",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext ts .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.13.0",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0",
+    "jest": "^24.7.1",
+    "nodemon": "^1.18.10",
+    "prettier": "^1.16.4",
+    "ts-jest": "^24.0.1",
+    "ts-node": "^8.0.3",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.1"
+  }
+}
